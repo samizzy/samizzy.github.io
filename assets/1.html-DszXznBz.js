@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-Bguh2_f1.js";const n={};function r(o,c){return a(),t("div")}const l=e(n,[["render",r]]),_=JSON.parse('{"path":"/tags/beginner/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,_ as data};

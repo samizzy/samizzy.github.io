@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-Bguh2_f1.js";const o={};function n(r,s){return a(),e("div")}const i=t(o,[["render",n]]),l=JSON.parse('{"path":"/tags/liskov-substitution-principle/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{i as comp,l as data};

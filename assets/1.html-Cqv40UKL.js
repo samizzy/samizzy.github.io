@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-Bguh2_f1.js";const n={};function r(c,o){return a(),t("div")}const l=e(n,[["render",r]]),i=JSON.parse('{"path":"/tags/design-principle/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,i as data};
