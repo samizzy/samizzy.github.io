@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://bakacoder.com/sitemap.xml
